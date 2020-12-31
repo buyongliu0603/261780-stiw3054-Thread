@@ -1,4 +1,4 @@
-public class classes {
+/*public class classes {
 }
 class classA extends Runnable{
     public void run(){
@@ -27,6 +27,6 @@ class classD implements Runnable{
 }
 
 
-
+*/
 
 
